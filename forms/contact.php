@@ -27,8 +27,8 @@
   
   $contact->smtp = array(
     'host' => 'gmail.com',
-    'username' => 'cpsolrac7',
-    'password' => 'pass',
+    'username' => 'covexinfo@gmail.com',
+    'password' => 'Covex.2024',
     'port' => '587'
   );
   
